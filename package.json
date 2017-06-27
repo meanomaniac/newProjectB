@@ -1,0 +1,22 @@
+{
+  "name": "newprojectb",
+  "version": "1.0.0",
+  "description": "newprojectb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meanomaniac/newProjectB.git"
+  },
+  "author": "newauthor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meanomaniac/newProjectB/issues"
+  },
+  "homepage": "https://github.com/meanomaniac/newProjectB#readme",
+  "dependencies": {
+    "node.bittrex.api": "^0.3.2"
+  }
+}
